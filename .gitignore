@@ -1,0 +1,5 @@
+.pytest_cache
+.idea
+test_report.html
+assets
+venv
